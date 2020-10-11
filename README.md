@@ -14,5 +14,5 @@ STEPS FOLLOWED:
 
 --> Auto edge detection and blurring of the image to remove the remaining disturbances.
 
--->Applied Hough Line Transform and created a line iterator to differentiate between solid and dashed lines.
+-->Applied Hough Line Transform to differentiate between solid and dashed lines.
 
